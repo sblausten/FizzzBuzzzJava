@@ -4,7 +4,7 @@ My first Java project!
 
 - IDE: [Eclipse](https://eclipse.org/downloads/packages/eclipse-ide-java-developers/oxygenr)
 - Build tool: [Gradle](https://gradle.org/)
-- Test Harness: [JUnit](http://junit.org/junit4/ and [Mockito](http://site.mockito.org/)
+- Test Harness: [JUnit](http://junit.org/junit4/) and [Mockito](http://site.mockito.org/)
 
 ### To download local copy
 ```bash
